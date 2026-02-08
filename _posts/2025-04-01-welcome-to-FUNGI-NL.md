@@ -3,8 +3,6 @@ title: "Welcome to FUNGI-NL"
 layout: post
 ---
 
-## Welcome to FUNGI-NL
-
 We are pleased to welcome you to FUNGI-NL, a national initiative designed to strengthen fungal research in the Netherlands through FAIR data, open software, training, and community building.
 
 Inspired by the TDCC-LSH calls and coordinated by the Westerdijk Fungal Biodiversity Institute, FUNGI-NL is developed in close collaboration with leading Dutch research institutes and partners active in fungal biology, bioinformatics, and data stewardship, and aligns with national and international open science initiatives.

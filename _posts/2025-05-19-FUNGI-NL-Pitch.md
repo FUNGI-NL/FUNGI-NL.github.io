@@ -11,6 +11,9 @@ inviting broad community involvement in shaping the initiative.
 During the session, we presented the core idea behind FUNGI-NL: a national, FAIR-compliant digital ecosystem for fungal research, designed to connect data,
 tools, training, and people across disciplines such as health, ecology, agriculture, and biotechnology. 
 
+<img width="1609" height="637" alt="image" src="https://github.com/user-attachments/assets/f8df08d2-cc45-4e76-be6e-b9026a462bcc" />
+
+
 The discussion highlighted the urgent need to better integrate fungal genomic data and metadata, 
 improve reuse of bioinformatics tools and workflows, and strengthen digital competencies within the fungal research community.
 

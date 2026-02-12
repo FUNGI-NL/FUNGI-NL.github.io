@@ -2,6 +2,7 @@
 title: "Welcome to FUNGI-NL"
 layout: post
 ---
+<img width="1208" height="843" alt="image" src="https://github.com/user-attachments/assets/1ae3d52c-054a-455d-8ef5-24c18bca320d" />
 
 We are pleased to welcome you to FUNGI-NL, a national initiative designed to strengthen fungal research in the Netherlands through FAIR data, open software, training, and community building.
 

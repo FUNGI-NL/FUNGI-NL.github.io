@@ -5,6 +5,8 @@ layout: page
 ---
 
 ## About FUNGI-NL
+<img width="1693" height="929" alt="FUNGI-NL_logo" src="https://github.com/user-attachments/assets/c0c2e59f-1904-443a-92b0-574c1508f15b" />
+
 
 FUNGI(FAIR, Users, Networks, Genomics, Infrastructure)-NL is an initiative that connects fungal research, data, software, and training into a single, FAIR-compliant ecosystem in the Netherlands. As fungal datasets, tools, and expertise rapidly expand across institutions, FUNGI-NL provides the structure needed to make them accessible, interoperable, and reusable.
 
